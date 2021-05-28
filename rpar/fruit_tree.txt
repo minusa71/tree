@@ -1,0 +1,26 @@
+fruit tree plumb 2018
+fruit tree green apple 2015
+fruit tree apple 2018
+fruit tree date 2018
+fruit tree fig 2020
+fruit tree green apple 2016
+fruit tree cherry 2018
+fruit tree sour cherry 2019
+fruit tree Petrovka pear 2017
+fruit tree pear 2015
+fruit tree apricot 2017
+fruit tree quince 2016
+fruit tree pomegranate 2020
+tree lime 2017
+tree hazelnut 2017
+bush raspberry 2018
+bush blackberry 2018
+bush black currant 2017
+bush chokeberry 2018
+bush goji berry 2018
+tree all_seasones_green - thuja
+tree all_seasones_green - juniper
+vine Kaberne 2018
+vine Merlo 2019
+vine Moldova 2017
+vine Italy 2017
